@@ -1,2 +1,2 @@
-# Mi-Ruta-A.S
-El proyecto Mi Ruta desarrollado en Android Studio con Jetpack Compose
+# Mi Ruta API
+El proyecto Mi Ruta desarrollado en Visual Studio Code con NodeJS y Express
