@@ -27,16 +27,18 @@ mi-ruta-api/
     * El modulo principal (rutas.js) demuestra el dominio de las diferentes tecnicas vistas en la unidad: Callbacks, Promesas y Async/Await.
     * Los modulos secundarios estan optimizados utilizando exclusivamente Async/Await y manejo de errores con try...catch, estableciendo el estandar moderno recomendado para la futura integracion con bases de datos NoSQL como MongoDB.
 
-## Como ejecutar el proyecto
+## Como ejecutar la API
 
-1. Asegurate de tener Node.js instalado en tu computadora.
-2. Abre una terminal en la carpeta raiz de tu proyecto (mi-ruta-api).
-3. Si aun no tienes el archivo de configuracion, inicializa el proyecto de Node ejecutando:
-   npm init -y
-4. Abre el archivo package.json que se acaba de crear y agrega esta linea antes de las dependencias para permitir la sintaxis de modulos:
-   "type": "module",
-5. Ejecuta el archivo principal para ver los resultados de las pruebas CRUD en tu consola:
-   node app.js
+1. Asegurate de tener Node.js instalado y abre una terminal en la carpeta raiz del proyecto.
+2. Instala las dependencias:
+   `npm install`
+3. Inicia el servidor en modo desarrollo (se reinicia al cambiar archivos):
+   `npm run dev`
+4. Para iniciar el servidor sin modo observacion:
+   `npm start`
+
+Por defecto, la API escucha en `http://localhost:3001`. Puedes configurar el puerto
+con la variable de entorno `PORT` y el host con `HOST`.
 
 ## Equipo 2 - Desarrolladores
 

@@ -1,0 +1,5 @@
+[
+  { "id": 1, "placa": "ABC-123", "modelo": "Nissan Urvan 2019", "capacidad": 15, "rutaId": 1, "activa": true },
+  { "id": 2, "placa": "DEF-456", "modelo": "Toyota Hiace 2020", "capacidad": 14, "rutaId": 2, "activa": true },
+  { "id": 3, "placa": "GHI-789", "modelo": "Nissan Urvan 2018", "capacidad": 15, "rutaId": 3, "activa": true }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Terminal", "rutaId": 1, "orden": 1, "activa": true },
+  { "id": 2, "nombre": "Mercado Municipal", "rutaId": 1, "orden": 2, "activa": true },
+  { "id": 3, "nombre": "Parque Central", "rutaId": 1, "orden": 3, "activa": true },
+  { "id": 4, "nombre": "Centro", "rutaId": 2, "orden": 1, "activa": true },
+  { "id": 5, "nombre": "Mercado Norte", "rutaId": 2, "orden": 2, "activa": true }
+]
