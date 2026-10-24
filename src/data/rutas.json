@@ -1,5 +1,27 @@
 [
-  { "id": 1, "nombre": "Ruta Centro", "origen": "Terminal", "destino": "Centro", "tarifa": 10, "activa": true },
-  { "id": 2, "nombre": "Ruta Norte", "origen": "Centro", "destino": "Mercado Norte", "tarifa": 12, "activa": true },
-  { "id": 3, "nombre": "Ruta Tecnológico", "origen": "Centro", "destino": "Instituto Tecnológico", "tarifa": 15, "activa": true }
+  { 
+    "id": 1, 
+    "nombre": 
+    "Ruta Centro", 
+    "origen": "Terminal", 
+    "destino": "Centro", 
+    "tarifa": 10, 
+    "activa": true 
+  },
+  { 
+    "id": 2, 
+    "nombre": "Ruta Norte", 
+    "origen": "Centro", 
+    "destino": "Mercado Norte", 
+    "tarifa": 12, 
+    "activa": true 
+  },
+  { 
+    "id": 3, 
+    "nombre": "Ruta Tecnológico", 
+    "origen": "Centro", 
+    "destino": "Instituto Tecnológico", 
+    "tarifa": 15, 
+    "activa": true 
+  }
 ]
