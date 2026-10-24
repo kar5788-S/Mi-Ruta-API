@@ -1,5 +1,5 @@
 import * as rutasService from "../services/rutas.services.js";
-import { validarRuta } from "../models/rutas.model.js";
+import { validarRuta } from "../model/rutas.model.js";
 
 function convertirId(valor) {
   const id = Number(valor);
